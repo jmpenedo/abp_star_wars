@@ -1,0 +1,4 @@
+id_user,name_character,comment,sentiment,like_dislike
+pepe,C-3PO,"I have never liked this robot, he is so bland.",0,NaN
+juan,R2-D2,I dont like him,0,NaN
+luis,Darth Vader,This is the antagonist of the series. I love him.,1,NaN
